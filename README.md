@@ -9,11 +9,11 @@ CityDom is an idle PC game. The premise of an idle game is progression with mini
 ### Loading Screen
 ![loading screen](https://github.com/Eircc/Idle-Game/blob/main/pictures/loading%20screen.png)
 
-### Create Your City
-![city](https://github.com/Eircc/Idle-Game/blob/main/pictures/city.PNG)
-
 ### Buy New Buildings
 ![buying buildings](https://github.com/Eircc/Idle-Game/blob/main/pictures/shop.PNG)
+
+### Create Your City
+![city](https://github.com/Eircc/Idle-Game/blob/main/pictures/city.PNG)
 
 ### Save for Upgrades
 ![upgrades](https://github.com/Eircc/Idle-Game/blob/main/pictures/upgrades.PNG)
