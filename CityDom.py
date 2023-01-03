@@ -5,28 +5,6 @@ import json
 import sys
 import math
 
-# AUG 19, 2022:
-#   implemented switching tabs in the shop menu
-#   implemented shop exit feature
-#   added loading screen
-#   added fade animation on loading screen
-#   reloacated all loading to the loading() function
-# AUG 21, 2022:
-#   updated background pictures
-#   realigned town hall to fit inside a box
-#   loaded background pictures for all eras
-#   loaded shop bar image
-#   fixed bug - if user clicked on shop button and dragged, the shop would open and close and user would not be able to drag map anymore
-#   imported fonts and replaced default font
-#   added shop titles
-#   added bars to the shop
-#   organized events function
-
-# TO DO:
-#   add a loaded % to the loading screen (possible edit for when it takes a long time to load)
-#   add items into the shop
-#   implement scrolling in the shop
-
 class Game:
     def __init__(self):
         pygame.init()
