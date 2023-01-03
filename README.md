@@ -4,6 +4,14 @@
 
 CityDom is an idle PC game. The premise of an idle game is progression with minimal player interaction with the objective of collecting objects or obtaining in-game currency. CityDom offers a various different buildings and upgrades that generate currency. The player is able to build their own town and watch as it progresses into a kingdom and eventually a prosperous city. The visuals were drawn by artist Gloria Li and the game was implemented by Eric Chen using Python 3. 
 
+## Download Instructions
+
+1. Download ZIP file from Github repository
+2. Extract folder to desired destination
+3. Open folder
+4. Double click CityDom.exe to run
+5. Enjoy!
+
 ## Images
 
 ### Loading Screen
