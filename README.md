@@ -25,3 +25,7 @@ CityDom is an idle PC game. The premise of an idle game is progression with mini
 
 ### Save for Upgrades
 ![upgrades](https://github.com/Eircc/Idle-Game/blob/main/pictures/upgrades.PNG)
+
+
+
+project finished: December 28th, 2022
