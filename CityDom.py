@@ -527,7 +527,7 @@ class Game:
                                 # clicking animation
                                 green_clicked_rect = self.shop_green_button_clicked.get_rect()
                                 green_clicked_rect.centerx = self.WIDTH * 0.673
-                                green_clicked_rect.centery = self.shop_item_y[1]
+                                green_clicked_rect.centery = self.shop_item_y[2]
                                 self.screen.blit(self.shop_green_button_clicked, green_clicked_rect)
                                 font = pygame.font.Font(self.subtitle_font, int(self.HEIGHT * 0.025))
                                 pasture_upgrade_cost = font.render(f"${self.pasture_upgrade_cost}", True, self.WHITE)
@@ -691,7 +691,7 @@ class Game:
         title_text = font.render(title, True, self.WHITE)
         title_text_rect = title_text.get_rect()
         title_text_rect.centerx = self.WIDTH / 2
-        title_text_rect.centery = self.HEIGHT / 2 - 360
+        title_text_rect.centery = self.HEIGHT / 6
         self.screen.blit(title_text, title_text_rect)
         for i in range(4):
             bar_rect = self.shop_bar.get_rect(center=(self.WIDTH / 2, self.shop_item_y[i]))
